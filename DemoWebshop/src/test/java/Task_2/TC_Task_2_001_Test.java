@@ -10,5 +10,4 @@ public class TC_Task_2_001_Test extends TC_Base_Test {
 		driver.get("https://www.skype.com/en/");
 	}
 
-
 }

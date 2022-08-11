@@ -28,6 +28,4 @@ public class TC_Base_Test {
 		Thread.sleep(2000);
 		driver.quit();
 	}
-
-
 }
